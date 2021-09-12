@@ -1,0 +1,28 @@
+.container {
+    height: 100%;
+    align-content: center;
+    padding-top: 5%;
+}
+
+.card{
+    height: 400px;
+    margin: auto;
+    margin-bottom: auto;
+    width: 500px;
+  
+    background-color: rgba(40, 146, 102, 0.5);
+}
+
+.form-check-lebel{
+    padding: 20px;
+}
+
+.btn{
+    
+    position: relative;
+    padding-left: 50px;
+
+}
+.body {
+    background-color: rgba(114, 8, 79, 0.5);
+}
